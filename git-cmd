@@ -1,0 +1,16 @@
+# clone a git project
+git clone git-project-url
+
+#-1 add file first
+git add file-name
+#-2 commit a file to local git repo.
+git commit -m "your comment to new added file: file-name"
+
+# push your file to remote git repo. in master node
+git push origin master
+
+
+
+# Passwd is stored in KDE Wallet: kwallet
+# Manage it by: kwalletmanager5
+# kwallet passwd: userpasswd
